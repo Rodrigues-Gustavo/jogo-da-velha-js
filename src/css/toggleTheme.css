@@ -1,0 +1,15 @@
+:root {
+  --first-color: #f0f0f0;
+  --second-color: #333;
+  --third-color:rgba(0, 0, 0, 0.1);
+  --fourth-color: #808080;
+  --border: 1px solid #FFF ;
+}
+
+.light-mode:root {
+  --first-color: #000;
+  --second-color: #fafafa;
+  --third-color:#808080;
+  --fourth-color: var(--first-color);
+  --border: 1px solid #000;
+}
