@@ -1,6 +1,4 @@
 # Jogo Da Velha - Javascript
-Jogo da velha com light theme e dark theme, feito com html, scss,css e javascript
-
 
 ### Projeto desenvolvido para portifólio pessoal.
 
@@ -13,11 +11,11 @@ Jogo da velha com light theme e dark theme, feito com html, scss,css e javascrip
 <P align="center">Jogo da velha com light theme,feito com html, scss,css e javascript</p>
 <h1 align="center"> TESTAR</h1>
 
-<a href="https://rodrigues-gustavo.github.io/drawing-js/">testar projeto</a>
+<a href="https://rodrigues-gustavo.github.io/jogo-da-velha-js/">testar projeto</a>
 
 <div align="center">
-
-
+ 
+![Black Minimalist Linktree Background](https://user-images.githubusercontent.com/102608021/194877473-0830f77d-cd02-49df-b032-45b58fa600c5.png)
 
 </div>
 
